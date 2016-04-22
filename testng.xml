@@ -1,0 +1,16 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Exmel Suite - Smoke Test" verbose="5">
+    <test name="Exmel.AutomationTests">
+
+        <groups>
+            <run>
+                <include name="Login"/>
+            </run>
+        </groups>
+
+        <classes>
+            <class name="Login.Login_Test"/>
+        </classes>
+    </test>
+</suite>

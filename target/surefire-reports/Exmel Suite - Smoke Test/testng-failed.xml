@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [Exmel Suite - Smoke Test]">
+  <test name="Exmel.AutomationTests">
+    <groups>
+      <run>
+        <include name="Login"/>
+      </run>
+    </groups>
+    <classes>
+      <class name="Login.Login_Test"/>
+    </classes>
+  </test> <!-- Exmel.AutomationTests -->
+</suite> <!-- Failed suite [Exmel Suite - Smoke Test] -->

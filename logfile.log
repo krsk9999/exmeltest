@@ -1,0 +1,75 @@
+2016-04-10 21:58:56,969 INFO  [Log] **************************************************************************************** 
+2016-04-10 21:58:56,969 INFO  [Log] **************************************************************************************** 
+2016-04-10 21:58:56,969 INFO  [Log] ******************             Default_DataProvider       ***************************** 
+2016-04-10 21:58:56,969 INFO  [Log] **************************************************************************************** 
+2016-04-10 21:58:56,969 INFO  [Log] **************************************************************************************** 
+2016-04-10 21:58:57,303 INFO  [Log] Excel sheet opened 
+2016-04-10 21:58:57,309 INFO  [Log] --------------------------------------------------------------------- 
+2016-04-10 21:58:57,310 INFO  [Log] Executing Setup Method 
+2016-04-10 21:58:57,310 INFO  [Log] Executing Test: LoginValidUserTest 
+2016-04-10 21:58:57,315 INFO  [Log] Executing Open Browser Action 
+2016-04-10 21:58:57,315 INFO  [Log] Browser: Firefox 
+2016-04-10 21:59:00,398 INFO  [Log] Browser was opened successfully 
+2016-04-10 21:59:00,398 INFO  [Log] ---------------------------------------------------- 
+2016-04-10 21:59:00,398 INFO  [Log] Executing Login 
+2016-04-10 21:59:00,399 INFO  [Log] Executing Goto method... 
+2016-04-10 21:59:00,399 INFO  [Log] Full URL: http://localhost/login.html 
+2016-04-10 21:59:02,414 INFO  [Log] Going to http://localhost/login.html 
+2016-04-10 21:59:02,899 INFO  [Log] Sendkeys with Clear: kramirez 
+2016-04-10 21:59:02,899 INFO  [Log] Username: kramirez 
+2016-04-10 21:59:03,145 INFO  [Log] Sendkeys with Clear: k 
+2016-04-10 21:59:03,145 INFO  [Log] Password: k 
+2016-04-10 21:59:03,249 INFO  [Log] Click action through javascript is performed on 'Click login Button' button 
+2016-04-10 21:59:03,249 INFO  [Log] Click action is performed on Submit button 
+2016-04-10 22:29:56,617 INFO  [Log] **************************************************************************************** 
+2016-04-10 22:29:56,617 INFO  [Log] **************************************************************************************** 
+2016-04-10 22:29:56,618 INFO  [Log] ******************             Default_DataProvider       ***************************** 
+2016-04-10 22:29:56,618 INFO  [Log] **************************************************************************************** 
+2016-04-10 22:29:56,618 INFO  [Log] **************************************************************************************** 
+2016-04-10 22:29:56,958 INFO  [Log] Excel sheet opened 
+2016-04-10 22:29:56,964 INFO  [Log] --------------------------------------------------------------------- 
+2016-04-10 22:29:56,964 INFO  [Log] Executing Setup Method 
+2016-04-10 22:29:56,964 INFO  [Log] Executing Test: Login_ValidUser_Test 
+2016-04-10 22:29:56,968 INFO  [Log] Executing Open Browser Action 
+2016-04-10 22:29:56,969 INFO  [Log] Browser: Firefox 
+2016-04-10 22:29:59,682 INFO  [Log] Browser was opened successfully 
+2016-04-10 22:29:59,683 INFO  [Log] ---------------------------------------------------- 
+2016-04-10 22:29:59,683 INFO  [Log] Executing Login 
+2016-04-10 22:29:59,684 INFO  [Log] Executing Goto method... 
+2016-04-10 22:29:59,684 INFO  [Log] Full URL: http://localhost/login.html 
+2016-04-10 22:30:01,698 INFO  [Log] Going to http://localhost/login.html 
+2016-04-10 22:30:02,158 INFO  [Log] Sendkeys with Clear: kramirez 
+2016-04-10 22:30:02,158 INFO  [Log] Username: kramirez 
+2016-04-10 22:30:02,452 INFO  [Log] Sendkeys with Clear: k 
+2016-04-10 22:30:02,452 INFO  [Log] Password: k 
+2016-04-10 22:30:02,560 INFO  [Log] Click action through javascript is performed on 'Click login Button' button 
+2016-04-10 22:30:02,560 INFO  [Log] Click action is performed on Submit button 
+2016-04-10 22:30:04,253 INFO  [Log] ---------------------------------------------------- 
+2016-04-10 22:30:04,253 INFO  [Log] Moving to Expediente 
+2016-04-10 22:30:04,402 INFO  [Log] Click action through javascript is performed on 'Clicking Expediente' button 
+2016-04-11 16:45:25,286 INFO  [Log] **************************************************************************************** 
+2016-04-11 16:45:25,287 INFO  [Log] **************************************************************************************** 
+2016-04-11 16:45:25,287 INFO  [Log] ******************             Default_DataProvider       ***************************** 
+2016-04-11 16:45:25,287 INFO  [Log] **************************************************************************************** 
+2016-04-11 16:45:25,287 INFO  [Log] **************************************************************************************** 
+2016-04-11 16:45:25,656 INFO  [Log] Excel sheet opened 
+2016-04-11 16:45:25,668 INFO  [Log] --------------------------------------------------------------------- 
+2016-04-11 16:45:25,668 INFO  [Log] Executing Setup Method 
+2016-04-11 16:45:25,668 INFO  [Log] Executing Test: Login_ValidUser_Test 
+2016-04-11 16:45:25,686 INFO  [Log] Executing Open Browser Action 
+2016-04-11 16:45:25,689 INFO  [Log] Browser: Firefox 
+2016-04-11 16:45:28,942 INFO  [Log] Browser was opened successfully 
+2016-04-11 16:45:28,946 INFO  [Log] ---------------------------------------------------- 
+2016-04-11 16:45:28,946 INFO  [Log] Executing Login 
+2016-04-11 16:45:28,952 INFO  [Log] Executing Goto method... 
+2016-04-11 16:45:28,955 INFO  [Log] Full URL: http://localhost/login.html 
+2016-04-11 16:45:30,968 INFO  [Log] Going to http://localhost/login.html 
+2016-04-11 16:45:31,410 INFO  [Log] Sendkeys with Clear: kramirez 
+2016-04-11 16:45:31,410 INFO  [Log] Username: kramirez 
+2016-04-11 16:45:31,663 INFO  [Log] Sendkeys with Clear: k 
+2016-04-11 16:45:31,663 INFO  [Log] Password: k 
+2016-04-11 16:45:31,769 INFO  [Log] Click action through javascript is performed on 'Click login Button' button 
+2016-04-11 16:45:31,769 INFO  [Log] Click action is performed on Submit button 
+2016-04-11 16:45:33,499 INFO  [Log] ---------------------------------------------------- 
+2016-04-11 16:45:33,499 INFO  [Log] Moving to Expediente 
+2016-04-11 16:45:33,595 INFO  [Log] Click action through javascript is performed on 'Clicking Expediente' button 

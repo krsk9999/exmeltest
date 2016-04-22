@@ -1,0 +1,15 @@
+machine: 
+  java:
+    version: openjdk8
+
+#general:
+  #build_dir: java
+
+test:
+  override:
+    - mvn clean test -DsuiteXmlFile=testng.xml
+
+  post:
+    - mv --backup target/surefire-reports/ $CIRCLE_ARTIFACTS
+    - mkdir -p $CIRCLE_TEST_REPORTS/surefire-reports/
+    - find . -type f -regex ".*/target/surefire-reports/.*html" -exec cp {} $CIRCLE_TEST_REPORTS/surefire-reports/ \;
